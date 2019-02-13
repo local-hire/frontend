@@ -3,10 +3,11 @@ nav {
     margin: 0;
     /* margin-top: -5vh; */
     top: 0;
-    background: #292E31;
+    background: lightgreen;
     z-index: 999;
     position:fixed;
-    border-bottom:solid #D89638 1px;
+    list-style: none;
+    /* border-bottom:solid #D89638 1px; */
 }
 
  nav img {
@@ -20,7 +21,7 @@ nav {
 /* padding-right: 10%; */
 }
 
-
+/* 
  nav a:active {
     color: #D89638;
     background: none;
@@ -55,7 +56,6 @@ nav {
     transition: all 0.2s ease-in;
     cursor: pointer;
     margin: -0.1%;
-    /* not 100% sure what cursor: point; does - GUY research this */
 }
  #nav li:hover {
      background: #d89638;
@@ -101,4 +101,4 @@ nav {
 }
  .content > div {
     margin: 10px 0;
-}
+} */

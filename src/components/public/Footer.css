@@ -1,38 +1,51 @@
+/* body {
+    min-height: 100%;
+} */
 footer {
     position: relative;
     width: 100%;
-    /* height:10%; */
     margin: 0;
-    background: #292E31;
+    background: lightgreen;
     margin-top: 15px;
-    vertical-align: bottom;
-}
-#footer ul {
-    list-style: none;
     display: flex;
+    
+    /* vertical-align: bottom; */
+    /* clear: both; */
+    /* position: relative; */
+    height: 180px;
+    margin-top: -180px;
+}
+
+footer ul {
+    list-style: none;
+    display: inline-block;
+    text-align: left;
     margin: 0;
     padding: 0;
+    padding-left: 40px; 
 }
 li {
-    height: 100%;
-    flex: 1;
-    text-align: center;
-    display: flex;
+    /* height: 100%; */
+    /* flex: 1; */
+    text-align: left;
+    /* display: flex; */
     justify-content: center;
     align-items: center;
-    padding: 10px;
+    /* padding: 10px; */
+    padding-top: 10px;
+
     transition: all 0.3s ease-in;
-    cursor: pointer; 
+    cursor: pointer;  
     /* not 100% sure what cursor: point; does - GUY research this */
 }
 li:hover,
 li:active {
-    background: #d89638;
+    background: #f4f5f2;
 }
-.fixed-nav {
+/* .fixed-nav {
     position: fixed;
-}
-.content {
+} */
+/* .content {
     width: 80%;
     margin: 0 auto;
     text-align: justify;
@@ -40,4 +53,4 @@ li:active {
 }
 .content > div {
     margin: 10px 0;
-}
+} */

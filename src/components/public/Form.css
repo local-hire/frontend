@@ -1,4 +1,4 @@
-.site-form{
+/* .site-form{
     font-family: 'Ropa Sans', sans-serif;
     background: #292E31;
     width: 49%;
@@ -6,10 +6,10 @@
     text-align: center;
     border: #d89638 2px solid;
     color: #d89638;
-    letter-spacing: .2em;
+    letter-spacing: .2em; */
     /* padding: 15px; */
-  }
-  .site-form h2{
+  /* } */
+  /* .site-form h2{
     text-align: center;
   }
   
@@ -28,14 +28,14 @@
     width: 130px;
     margin: 2%;
     text-align: left;
-  }
+  } */
   
-  .form-check input {
-     outline: none;
+  /* .form-check input { */
+     /* outline: none; */
     /* margin: -24%; */
-    text-align: left; 
-  }
-  .site-form form input{
+    /* text-align: left;  */
+  /* } */
+  /* .site-form form input{
     text-align: left
   }
   .site-form form button {
@@ -45,12 +45,12 @@
   }
   .site-form input {
     width: 50%;
-  }
+  } */
   
-  .site-form.registration {
+  /* .site-form.registration {
     margin-top: 60px;
   }
   
   .customers-table pure-table pure-table-horizontal {
     text-align: center;
-  }
+  } */

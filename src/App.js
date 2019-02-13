@@ -107,7 +107,6 @@ setAdmin = (isAdmin) =>{
             <Route path="/home" component={Home} exact/>
             <Route path="/faqs" component={Faqs} exact/>
             <Route path="/fees" component={Fees} exact/>
-            <Route path="/faqs" component={Faqs} exact/>
             <Route path="/footer" component={Footer} exact/>
             <Route path="/lend" component={InfoLend} exact/>
             <Route path="/borrow" component={InfoBorrow} exact/>

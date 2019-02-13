@@ -43,6 +43,17 @@ You can view the item page here(link).  This is what visitors to the site will s
 
 You can edit the item page here(link).  
 
+
+Next step - share this item with your friends on facebook / this is how it will look
+- share this item on twitter / this is how it will look
+- share this on instagram / this is how it will look 
+- share this on 
+
+go back to profile 
+go to search 
+
+the above next steps could be their own component that only show up once a new item is submitted.
+
       </div>
     )
   }

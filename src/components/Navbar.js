@@ -34,6 +34,7 @@ export default class Navbar extends Component {
       <div>
         {/* <div>We can also put a message up here if we want to</div> */}
         <nav id="nav" className={this.state.scroll > this.state.top ? "fixed-nav" : ""}>
+            <h4>Local Hire</h4>
           <ul>
               {/* <li><Link to='/#home'><img className="navlogo" src={logonav} alt="Bottle Batched Logo"/></Link></li> */}
               {/* <li><Link to='/#home'>Logo where i will put an image</Link></li> */}
